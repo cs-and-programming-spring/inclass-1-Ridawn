@@ -2,7 +2,7 @@
 
 
 /***********************************************
-* Name: Takeshwari Kamal
+* Name:Ridwan Alaoudi
 * Email: kamalt4@students.rowan.edu
 ***********************************************
 * Purpose:
